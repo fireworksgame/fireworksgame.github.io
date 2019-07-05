@@ -1,2 +1,5 @@
 # fireworksgame.github.io
-make your own fireworks!
+Make your own fireworks!
+
+
+-- based off tutorial https://codepen.io/whqet/pen/Auzch
